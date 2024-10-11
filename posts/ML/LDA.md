@@ -25,7 +25,7 @@ Example testing dataset:
 
 ## Code  
 
-[R Code to run LDA](https://github.com/vanngocthuyla/Data_Analysis/tree/main/scripts/sequencing/LDA.R)  
+[R Code to run LDA](https://github.com/vanngocthuyla/vanngocthuyla.github.io/tree/main/scripts/sequencing/LDA.R)  
 
 ## Output
 ### LDA_prediction_train
@@ -104,4 +104,4 @@ Confusion matrix:
 
 ### LDA plot
 
-<img src='https://vanngocthuyla.github.io/images/omics/LDA_plot.jpg' width="800">
+<img src='https://vanngocthuyla.github.io/images/ML/LDA_plot.jpg' width="800">
