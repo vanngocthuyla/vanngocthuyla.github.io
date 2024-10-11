@@ -17,7 +17,7 @@ In one of my projects, I developed a pipeline to identify DEGs from RNA-sequenci
 
 Functional annotation then helps elucidate the molecular functions, biological processes, and subcellular locations of the genes. This provides a clearer understanding of how these genes contribute to the condition being studied. The pipeline integrates bioinformatics tools that can be employed for gene function annotation, helping researchers to infer biological pathways and potential therapeutic targets.
 
-<div align="center"> <img src='https://vanngocthuyla.github.io/Data_Analysis/images/omics/Pipeline.png' width="800"> </div>
+<div align="center"> <img src='https://vanngocthuyla.github.io/images/omics/Pipeline.png' width="800"> </div>
 
 ## Analyzing DEGs with Machine Learning Methods
 
@@ -35,7 +35,7 @@ Genomic analysis plays a crucial role in understanding genetic variations and th
 
    I developed a pipeline for CNV detection using WES data. CNVs, which involve the duplication or deletion of sections of the genome, are linked to various genetic disorders and early-onset diseases. The pipeline I created provides an effective means of identifying these variants, offering clinicians insights into potential genetic risks.
 
-2. [Chromosomal Anomaly Identification using Whole Genome Sequencing (WGS)](https://vanngocthuyla.github.io/Data_Analysis/_pages/omics/NIPT)
+2. [Chromosomal Anomaly Identification using Whole Genome Sequencing (WGS)](https://vanngocthuyla.github.io/_pages/omics/NIPT)
 
 I worked on identifying chromosomal anomalies, such as trisomies, using WGS data. This project focused on the detection of conditions like Down syndrome (trisomy 21), Edwards syndrome (trisomy 18), and Patau syndrome (trisomy 13). The WGS-based pipeline allows for early, non-invasive diagnosis of these anomalies, providing crucial information for prenatal care.
 
