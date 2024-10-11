@@ -75,4 +75,4 @@
 
 ### Plot
 
-<img src='https://vanngocthuyla.github.io/images/omics/Hclust_Plot.jpg' width="800">
+<img src='https://vanngocthuyla.github.io/images/ML/Hclust_Plot.jpg' width="800">
