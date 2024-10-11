@@ -23,7 +23,7 @@ For this analysis, I utilized a dataset comprising 52 samples of 7,000 genes as 
 
 The resulting dendrogram revealed that similar samples were grouped together. For instance, samples S03, S04, and S05 formed a small branch, while S12, S13, and S14 were located in a branch significantly distant from the first. 
 
-<img src='https://vanngocthuyla.github.io/images/omics/Hclust_Plot.jpg' width="800">
+<img src='https://vanngocthuyla.github.io/images/ML/Hclust_Plot.jpg' width="800">
 
 If the number of clusters is set to five, the algorithm will return the assigned cluster for each sample.
 
