@@ -33,6 +33,6 @@
 |Variance Percent|42.59777|21.14663|16.35123|12.26801|7.636353|7.348944e-29|
 |Cumulative percentage of variance|42.59777|63.7444|80.09563|92.36365|100|100|
 
-<img src='https://vanngocthuyla.github.io/images/omics/PCA_Plot.png' width="800">
+<img src='https://vanngocthuyla.github.io/images/ML/PCA_Plot.png' width="800">
 
-<img src='https://vanngocthuyla.github.io/images/omics/Scree_Plot.png' width="800">
+<img src='https://vanngocthuyla.github.io/images/ML/Scree_Plot.png' width="800">
