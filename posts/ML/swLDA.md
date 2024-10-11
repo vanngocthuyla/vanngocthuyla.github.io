@@ -123,4 +123,4 @@ Confusion matrix:
 |Type_N|0|0|0|3|
 
 ### swLDA plot
-<img src='https://vanngocthuyla.github.io/images/omics/swLDA_plot.jpg' width="800">
+<img src='https://vanngocthuyla.github.io/images/ML/swLDA_plot.jpg' width="800">
