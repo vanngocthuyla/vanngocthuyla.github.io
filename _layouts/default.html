@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <html>
-<head>
+  <head>
     <title>{% if page.title %}{{ page.title }} – {% endif %}{{ site.name }} – {{ site.description }}</title>
 
     {% include meta.html %}
@@ -13,42 +13,42 @@
     <link rel="alternate" type="application/rss+xml" title="{{ site.name }} - {{ site.description }}" href="{{ site.url }}/feed.xml" />
 
     <!-- Created with Jekyll Now - http://github.com/barryclark/jekyll-now -->
-</head>
+  </head>
 
-<body>
+  <body>
     <div class="wrapper-masthead">
-        <div class="container">
-            <header class="masthead clearfix" style="display: flex; justify-content: flex-start; align-items: center;">
-                <div class="site-header" style="display: flex; align-items: center;">
-                    <!-- Image on the left -->
-                    <div style="flex: 0 0 auto; margin-right: 20px;">
-                        <img src="{{ site.url }}/images/assets/profile.jpeg" alt="My Picture" style="height: 120px; width: auto; border-radius: 50%;">
-                    </div>
+      <div class="container">
+        <header class="masthead clearfix" style="display: flex; justify-content: space-between; align-items: center; flex-direction: column;">
+          <div class="site-header">
+            <!-- Image on the left -->
+            <div style="float:left;">
+              <img src="{{ site.url }}/images/assets/profile.jpeg" alt="My Picture" style="height: 120px; width: auto; border-radius: 50%;">
+            </div>
 
-                    <!-- Site name and description on the right -->
-                    <div class="site-info" style="flex: 1; text-align: center;">
-                        <h1 class="site-name"><a href="{{ site.url }}/">{{ site.name }}</a></h1>
-                        <p class="site-description">{{ site.description }}</p>
-                    </div>
-                </div>
+            <!-- Site name and description in the middle -->
+            <div class="site-info" style="text-align: center; margin: 0 auto;">
+              <h1 class="site-name"><a href="{{ site.url }}/">{{ site.name }}</a></h1>
+              <p class="site-description">{{ site.description }}</p>
+            </div>
+          </div>
 
-                <!-- Navigation goes to the next line -->
-                <nav style="margin-top: 20px; text-align: center; display: flex; justify-content: center;">
-                    <a href="{{ site.url }}" style="margin-right: 20px;">Home</a>
-                    <a href="{{ site.url }}/omics" style="margin-right: 20px;">Omics Analysis</a>
-                    <a href="{{ site.url }}/modeling" style="margin-right: 20px;">Statistical Modeling</a>
-                    <a href="{{ site.url }}/machine_learning" style="margin-right: 20px;">Machine Learning</a>
-                    <a href="{{ site.url }}/about">About Me</a>
-                </nav>
-            </header>
-        </div>
+          <!-- Navigation goes to the next line -->
+          <nav style="margin-top: 20px; text-align: center; display: flex; justify-content: center;">
+            <a href="{{ site.url }}" style="margin-right: 20px;">Home</a>
+            <a href="{{ site.url }}/omics" style="margin-right: 20px;">Omics Analysis</a>
+            <a href="{{ site.url }}/modeling" style="margin-right: 20px;">Statistical Modeling</a>
+            <a href="{{ site.url }}/machine_learning" style="margin-right: 20px;">Machine Learning</a>
+            <a href="{{ site.url }}/about">About Me</a>
+          </nav>
+        </header>
+      </div>
     </div>
 
     <div id="main" role="main" class="container">
-        {{ content }}
+      {{ content }}
     </div>
 
-    <!--     <div class="wrapper-footer">
+<!--     <div class="wrapper-footer">
       <div class="container">
         <footer class="footer">
           {% include svg-icons.html %}
@@ -57,5 +57,5 @@
     </div> -->
 
     {% include analytics.html %}
-</body>
+  </body>
 </html>
