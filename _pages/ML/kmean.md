@@ -13,7 +13,7 @@
 
 ## Code  
 
-[R Code to run K-means](https://github.com/vanngocthuyla/Data_Analysis/tree/main/scripts/sequencing/kmeans_code.R)  
+[R Code to run K-means](https://github.com/vanngocthuyla/vanngocthuyla.github.io/tree/main/scripts/sequencing/kmeans.R)  
 
 ## Output 
 

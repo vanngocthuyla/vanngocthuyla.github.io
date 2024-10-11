@@ -27,7 +27,7 @@ Example testing dataset:
 
 ## Code  
 
-[R Code to run Random Forest](https://github.com/vanngocthuyla/Data_Analysis/tree/main/scripts/sequencing/RandomForest_code.R)  
+[R Code to run Random Forest](https://github.com/vanngocthuyla/vanngocthuyla.github.io/tree/main/scripts/sequencing/RandomForest_code.R)  
 
 ## Output for 100 trees
 ### Result for TestSet
@@ -56,6 +56,6 @@ Confusion matrix:
 
 ### Plot Results
 
-<img src='https://vanngocthuyla.github.io/Data_Analysis/images/omics/Random_Forest_Plot.jpg' width="800">
+<img src='https://vanngocthuyla.github.io/images/omics/Random_Forest_Plot.jpg' width="800">
 
-<img src='https://vanngocthuyla.github.io/Data_Analysis/images/omics/Feature_Important_Plot.jpg' width="800">
+<img src='https://vanngocthuyla.github.io/images/omics/Feature_Important_Plot.jpg' width="800">

@@ -13,7 +13,7 @@
 
 ## Code  
 
-[R Code to run Hclust](https://github.com/vanngocthuyla/Data_Analysis/tree/main/scripts/sequencing/hclust_code.R)  
+[R Code to run Hclust](https://github.com/vanngocthuyla/vanngocthuyla.github.io/tree/main/scripts/sequencing/hclust.R)  
 
 ## Output
 ### Cluster Table
@@ -75,4 +75,4 @@
 
 ### Plot
 
-<img src='https://vanngocthuyla.github.io/Data_Analysis/images/omics/Hclust_Plot.jpg' width="800">
+<img src='https://vanngocthuyla.github.io/images/omics/Hclust_Plot.jpg' width="800">

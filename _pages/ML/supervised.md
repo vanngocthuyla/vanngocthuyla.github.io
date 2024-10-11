@@ -39,7 +39,7 @@ The effectiveness of the LDA classifier constructed for the training set could b
 
 **LDA plot**
 
-<img src='https://vanngocthuyla.github.io/Data_Analysis/images/omics/LDA_plot.jpg' width="800">
+<img src='https://vanngocthuyla.github.io/images/omics/LDA_plot.jpg' width="800">
 
 Another results provided by LDA is the confusion matrix, which presents the predicted classifications in rows against the actual classifications in columns. The diagonal elements represent the number of correct predictions (true positives), while the values above the diagonal indicate true observations that were not predicted (false negatives), and those below represent predictions that were incorrect (false positives). According to this matrix, the classification accuracy for the training set around 87%. 
 
@@ -71,7 +71,7 @@ Another results provided by LDA is the confusion matrix, which presents the pred
 |Type_L|1|0|19|0|
 |Type_N|1|0|0|2|
 
-In addition to LDA, various classification methods, including [Support Vector Machine (SVM)](https://vanngocthuyla.github.io/Data_Analysis/_pages/omics/SVM), [Random Forest](https://vanngocthuyla.github.io/Data_Analysis/_pages/omics/RF), and [Naive Bayes](https://vanngocthuyla.github.io/Data_Analysis/_pages/omics/Naive_Bayes) were introduced. Each of these methods employs different mathematical approaches to tackle the same classification task, providing multiple options for the best fit for specific data and analysis purposes.
+In addition to LDA, various classification methods, including [Support Vector Machine (SVM)](https://vanngocthuyla.github.io/_pages/omics/SVM), [Random Forest](https://vanngocthuyla.github.io/_pages/omics/RF), and [Naive Bayes](https://vanngocthuyla.github.io/_pages/omics/Naive_Bayes) were introduced. Each of these methods employs different mathematical approaches to tackle the same classification task, providing multiple options for the best fit for specific data and analysis purposes.
 
 ### 2. Feature Selection
 
@@ -115,7 +115,7 @@ Unlike LDA, swLDA requires an additional parameter called Niveau, which determin
 
 **swLDA plot**
 
-<img src='https://vanngocthuyla.github.io/Data_Analysis/images/omics/swLDA_plot.jpg' width="800">
+<img src='https://vanngocthuyla.github.io/images/omics/swLDA_plot.jpg' width="800">
 
 Compared to LDA, swLDA achieved a higher accuracy in subtype classification, with a prediction rate of 100%. The feature mean and coefficient tables below revealed that 7 genes were selected, which enabled perfect classification of the training set.
 

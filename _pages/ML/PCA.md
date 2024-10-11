@@ -11,7 +11,7 @@
 
 ## Code  
 
-[R Code to run PCA](https://github.com/vanngocthuyla/Data_Analysis/tree/main/scripts/sequencing/PCA_code.R)  
+[R Code to run PCA](https://github.com/vanngocthuyla/vanngocthuyla.github.io/tree/main/scripts/sequencing/PCA_code.R)  
 
 ## Output Data
 ### PCA_table
@@ -33,6 +33,6 @@
 |Variance Percent|42.59777|21.14663|16.35123|12.26801|7.636353|7.348944e-29|
 |Cumulative percentage of variance|42.59777|63.7444|80.09563|92.36365|100|100|
 
-<img src='https://vanngocthuyla.github.io/Data_Analysis/images/omics/PCA_Plot.png' width="800">
+<img src='https://vanngocthuyla.github.io/images/omics/PCA_Plot.png' width="800">
 
-<img src='https://vanngocthuyla.github.io/Data_Analysis/images/omics/Scree_Plot.png' width="800">
+<img src='https://vanngocthuyla.github.io/images/omics/Scree_Plot.png' width="800">

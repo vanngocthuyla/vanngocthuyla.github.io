@@ -27,13 +27,13 @@ The pipeline’s performance was visually represented by plotting patient sample
 
 Testing datasets from the research of Stephanie C. Yu [1], which included 21 cases of trisomy 13, 27 cases of trisomy 18, and 36 cases of trisomy 21, were used to validate the pipeline's performance. The results demonstrated that the pipeline accurately identified all cases of trisomy 13 (Figure 2A) and trisomy 21 (Figure 2C), with 100% sensitivity and specificity. For trisomy 18, the pipeline correctly identified 26 out of 27 cases, with one false negative (Figure 2B), leading to an accuracy rate of 98.81%.
 
-<div align="center"> <img src='https://vanngocthuyla.github.io/Data_Analysis/images/omics/NIPT_T13.jpg' width="800"> </div>
+<div align="center"> <img src='https://vanngocthuyla.github.io/images/omics/NIPT_T13.jpg' width="800"> </div>
 <div align="center">A</div>
 
-<div align="center"> <img src='https://vanngocthuyla.github.io/Data_Analysis/images/omics/NIPT_T18.jpg' width="800"> </div>  
+<div align="center"> <img src='https://vanngocthuyla.github.io/images/omics/NIPT_T18.jpg' width="800"> </div>  
 <div align="center">B</div>
 
-<div align="center"> <img src='https://vanngocthuyla.github.io/Data_Analysis/images/omics/NIPT_T21.jpg' width="800"> </div>
+<div align="center"> <img src='https://vanngocthuyla.github.io/images/omics/NIPT_T21.jpg' width="800"> </div>
 <div align="center">C</div>
 <div align="center">Figure 2. Testing datasets for NIPT</div>
 

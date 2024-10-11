@@ -24,7 +24,7 @@ Example testing dataset:
 
 ## Code  
 
-[R Code to run swLDA](https://github.com/vanngocthuyla/Data_Analysis/tree/main/scripts/sequencing/swLDA_codee.R)  
+[R Code to run swLDA](https://github.com/vanngocthuyla/vanngocthuyla.github.io/tree/main/scripts/sequencing/swLDA.R)  
 
 ## Output
 
@@ -123,4 +123,4 @@ Confusion matrix:
 |Type_N|0|0|0|3|
 
 ### swLDA plot
-<img src='https://vanngocthuyla.github.io/Data_Analysis/images/omics/swLDA_plot.jpg' width="800">
+<img src='https://vanngocthuyla.github.io/images/omics/swLDA_plot.jpg' width="800">
