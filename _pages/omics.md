@@ -5,9 +5,11 @@ sitemap: false
 permalink: /omics
 ---
 
+Jump to [Transcriptomics](#Transcriptomics), [Genomic](#Genomics)
+
 Sequencing technologies are essential tools in biomedical research, enabling the exploration of genetic and molecular mechanisms underlying diseases. By decoding DNA and RNA sequences, researchers can identify mutations, genetic variations, and gene expression patterns, which contribute to better understanding, diagnosis, and treatment of various diseases. From whole-genome sequencing (WGS) to RNA-sequencing (RNA-seq), these technologies help reveal the genetic basis of disorders, allowing for targeted therapies and personalized medicine.
 
-# Transcriptomic Analysis
+# Transcriptomics
 
 ## Transcriptomic Profiling, Functional Annotation, and Differentially Expressed Genes (DEGs)
 
@@ -29,7 +31,7 @@ Examples illustrating the application of machine learning methods in biomedical 
 
 These methods, in combination with DEG identification, provide valuable insights into disease processes and potential therapeutic targets. 
 
-# Genomic Analysis
+# Genomics
 
 Genomic analysis plays a crucial role in understanding genetic variations and their impact on disease. I worked on two distinct projects related to genomic data:
 
