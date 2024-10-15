@@ -26,4 +26,4 @@ I work on identifying genomic variations and abnormalities that drive diseases, 
 
 - Pre-diagnosing breast cancer through copy number variant (CNV) detection using WES data.
 
-Discover more about my working experiences in omics data in [this post](https://vanngocthuyla.github.io/posts/omics/omics_intro).
+Discover more about my working experiences in omics data in [**this post**](https://vanngocthuyla.github.io/posts/omics/omics_intro).
