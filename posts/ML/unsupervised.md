@@ -1,4 +1,4 @@
-As we explored in previous sections on classification and feature selection, gene expression data can reliably identify cancer subtypes. Next, we will investigate whether it is possible to uncover subtype separations in an unsupervised manner using only transcriptomic data. Specifically, we will employ clustering techniques to group samples based on their similarities.
+As we explored in [previous section](https://vanngocthuyla.github.io/posts/ML/supervised/) on classification and feature selection, gene expression data can reliably identify cancer subtypes. Next, we will investigate whether it is possible to uncover subtype separations in an unsupervised manner using only transcriptomic data. Specifically, we will employ clustering techniques to group samples based on their similarities.
 
 ## 1. Hierarchical Clustering
 
