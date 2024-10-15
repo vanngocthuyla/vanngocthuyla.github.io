@@ -9,6 +9,6 @@ In the rapidly evolving field of biomedical research, machine learning has emerg
 
 I summarize information on the application of machine learning methods in biomedical research in [this post](https://vanngocthuyla.github.io/posts/ML/ML_intro), drawing from the experiences I gained while participating in the Louisiana Biomedical Research Network (LBRN) Summer Bioinformatics Workshop in 2018.
 
-Discover some supervised machine learning techniques and how they are applied in biomedical research to classify disease/cell types and predict outcomes [**here**](https://vanngocthuyla.github.io/posts/ML/supervised).
+Discover some supervised machine learning techniques and how they could be applied in biomedical research to classify disease/cell types and predict outcomes [**here**](https://vanngocthuyla.github.io/posts/ML/supervised).
 
 Explore unsupervised machine learning techniques used to discover hidden patterns in biological data [**here**](https://vanngocthuyla.github.io/posts/ML/unsupervised).
