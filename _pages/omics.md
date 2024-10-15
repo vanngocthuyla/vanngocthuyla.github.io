@@ -5,7 +5,7 @@ sitemap: false
 permalink: /omics
 ---
 
-Jump to [Introduction of omics analysis](https://vanngocthuyla.github.io/omics/posts/omics_intro)
+Jump to [Introduction of omics analysis](https://vanngocthuyla.github.io/posts/omics/omics_intro)
 
 ## Transcriptomic analysis
 
