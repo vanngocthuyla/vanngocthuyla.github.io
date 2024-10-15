@@ -22,3 +22,10 @@ involved in terpenoid biosynthetic pathway in the rubber tree Hevea brasiliensis
 
 ## Research Projects
 
+1) Copy Number Variant (CNV) Detection using Whole Exome Sequencing (WES)
+
+2) [Chromosomal Anomaly Identification using Whole Genome Sequencing (WGS)](https://vanngocthuyla.github.io/posts/omics/NIPT/)
+
+3) [Identifying breast cancer subtypes by unsupervised clustering techniques](https://vanngocthuyla.github.io/posts/ML/unsupervised/)
+
+4) [Feature selection for cancer subtypes by supervised machine learning](https://vanngocthuyla.github.io/posts/ML/supervised/)
