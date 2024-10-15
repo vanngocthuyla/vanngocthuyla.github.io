@@ -1,3 +1,10 @@
+## Research Areas
+
+- Omics analysis: genomic analysis and variant calling; transcriptomic profiling and differential gene expression (DEG)
+
+- Statistical analysis: Bayesian modeling and inference, uncertainty quantification
+
+- Application of Machine Learning in biomedical research
 
 ## Journal Publications
 
