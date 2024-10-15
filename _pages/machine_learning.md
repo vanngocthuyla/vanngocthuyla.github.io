@@ -5,6 +5,8 @@ sitemap: false
 permalink: /machine_learning
 ---
 
+Jump to [Supervised](https://vanngocthuyla.github.io/posts/ML/supervised/) or [Unsupervised](https://vanngocthuyla.github.io/posts/ML/unsupervised/)
+
 ## Harnessing Machine Learning to Transform Biomedical Research
 
 In the rapidly evolving field of biomedical research, machine learning has emerged as a transformative tool that enhances our ability to analyze complex biological data. By leveraging algorithms that can learn from and make predictions based on data, researchers can uncover insights that were previously unattainable through traditional statistical methods. This capability is particularly crucial in understanding the complexities of diseases, guiding diagnosis, and developing targeted therapies.
