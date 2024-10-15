@@ -10,7 +10,7 @@ permalink: /research
 
 - [Omics Analysis](https://vanngocthuyla.github.io/omics): genomic analysis and variant calling; transcriptomic profiling and differential gene expression (DEG)
 
-- [Statistical analysis](https://vanngocthuyla.github.io/modeling): Bayesian modeling and inference, uncertainty quantification
+- [Statistical Analysis](https://vanngocthuyla.github.io/modeling): Bayesian modeling and inference, uncertainty quantification
 
 - Application of [Machine Learning](https://vanngocthuyla.github.io/machine_learning) in biomedical research
 
