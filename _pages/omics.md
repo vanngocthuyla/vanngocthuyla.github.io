@@ -5,8 +5,6 @@ sitemap: false
 permalink: /omics
 ---
 
-Jump to [Introduction of omics analysis](https://vanngocthuyla.github.io/posts/omics/omics_intro)
-
 ## Transcriptomic analysis
 
 I analyze RNA-seq data to gain a deeper understanding of gene expression dynamics. My transcriptomic work includes:
@@ -27,3 +25,5 @@ I work on identifying genomic variations and abnormalities that drive diseases, 
 - Detecting chromosomal anomalies in human WGS data for early diagnosis of genetic disorders.
 
 - Pre-diagnosing breast cancer through copy number variant (CNV) detection using WES data.
+
+Discover more about my research in omics data in [this post].(https://vanngocthuyla.github.io/posts/omics/omics_intro)
