@@ -4,11 +4,11 @@ Once the data tables were prepared, I utilized machine learning algorithms to cl
 
 ## 1. Classification
 
-Breast cancer was reported to be able divided into distinct subtypes. In this work, I worked on 38 datasets from 5 cell lines (luminal, basal, claudin-low, and normal-like cases). We want to identify the most informative features (genes) in these subtypes using supervised machine learning methods, specifically classification algorithms. In this case, I applied Linear Discriminant Analysis (LDA). LDA works similarly to Principal Component Analysis (PCA) but takes subtype information into account when determining the components. Like other classification methods, LDA uses a training set where the subtypes are already known. From this training set, LDA constructs a classifier that can then assign new samples to one of the known subtypes.
+Breast cancer was reported to be able divided into distinct subtypes. In this work, I worked on 38 datasets from 5 cell lines (luminal, basal, claudin-low, and normal-like cases). I wanted to identify the most informative features (genes) in these subtypes using supervised machine learning methods, specifically classification algorithms. In this case, I applied Linear Discriminant Analysis (LDA). LDA works similarly to Principal Component Analysis (PCA) but takes subtype information into account when determining the components. Like other classification methods, LDA uses a training set where the subtypes are already known. From this training set, LDA constructed a classifier that could then assign new samples to one of the known subtypes.
 
 ### 1.1. Input
 
-The gene expression data and subtype information are combined into a single table to serve as the training set. Each sample (or cell line) is represented by a column and is labeled with its respective subtype. For this analysis, the subtypes were encoded as follows: 
+The gene expression data and subtype information were combined into a single table to serve as the training set. Each sample (or cell line) was represented by a column and was labeled with its respective subtype. For this analysis, the subtypes were encoded as follows: 
 
 - B  – Basal
 - CL – Claudin-low
@@ -35,13 +35,13 @@ For the test set, I used a similar table that did not include class labels, allo
 
 ### 1.2. Result
 
-The effectiveness of the LDA classifier constructed for the training set could be assessed by examining the results presented in LDA_plot. For example, the first two axes achieve a separation of type N (Normal-like) and type CL (Claudin-low).
+The effectiveness of the LDA classifier constructed for the training set could be assessed by examining the results presented in LDA_plot. For example, the first two axes achieved a separation of type N (Normal-like) and type CL (Claudin-low).
 
 **LDA plot**
 
 <img src='https://vanngocthuyla.github.io/images/ML/LDA_plot.jpg' width="800">
 
-Another results provided by LDA is the confusion matrix, which presents the predicted classifications in rows against the actual classifications in columns. The diagonal elements represent the number of correct predictions (true positives), while the values above the diagonal indicate true observations that were not predicted (false negatives), and those below represent predictions that were incorrect (false positives). According to this matrix, the classification accuracy for the training set around 87%. 
+Another results provided by LDA was the confusion matrix, which presents the predicted classifications in rows against the actual classifications in columns. The diagonal elements represented the number of correct predictions (true positives), while the values above the diagonal indicate true observations that were not predicted (false negatives), and those below represent predictions that were incorrect (false positives). According to this matrix, the classification accuracy for the training set was around 87%. 
 
 **Prediction result**
 
@@ -75,7 +75,7 @@ In addition to LDA, various classification methods, including [Support Vector Ma
 
 ### 2. Feature Selection
 
-One effective method for this is stepwise feature selection. Similar to LDA, this approach begins by testing individual features and selecting the one that provides the best classification quality for the training set. The process then evaluates pairs of features, where the first feature is the previously selected one, and identifies the pair that yields the highest classification accuracy. This method continues with triples, quadruples, and so forth. Although this greedy strategy may not be optimal, it delivers results within a reasonable timeframe.
+One effective method for this was stepwise feature selection. Similar to LDA, this approach begins by testing individual features and selecting the one that provides the best classification quality for the training set. The process then evaluates pairs of features, where the first feature is the previously selected one, and identifies the pair that yields the highest classification accuracy. This method continues with triples, quadruples, and so forth. Although this greedy strategy may not be optimal, it delivers results within a reasonable timeframe.
 
 ### 2.1. Input
 
@@ -83,7 +83,7 @@ To implement this, I utilized the swLDA (step-wise LDA) algorithm, using the sam
 
 ### 2.2. Result
 
-Unlike LDA, swLDA requires an additional parameter called Niveau, which determines the stopping criterion. This parameter should be adjusted based on the size of the transcriptome; in this case, with nearly 7,000 genes, I set it to 0.0005.
+Unlike LDA, swLDA required an additional parameter called Niveau, which determines the stopping criterion. This parameter should be adjusted based on the size of the transcriptome; in this case, with nearly 7,000 genes, I set it to 0.0005.
 
 **Prediction result**
 
