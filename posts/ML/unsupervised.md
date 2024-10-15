@@ -1,10 +1,10 @@
-As we explored in [previous section](https://vanngocthuyla.github.io/posts/ML/supervised/) on classification and feature selection, gene expression data can reliably identify cancer subtypes. Next, we will investigate whether it is possible to uncover subtype separations in an unsupervised manner using only transcriptomic data. Specifically, we will employ clustering techniques to group samples based on their similarities.
+As we explored in [previous section](https://vanngocthuyla.github.io/posts/ML/supervised/) on classification and feature selection, gene expression data could reliably identify cancer subtypes. Next, we would investigate whether it was possible to uncover subtype separations in an unsupervised manner using only transcriptomic data. Specifically, we would employ clustering techniques to group samples based on their similarities.
 
 ## 1. Hierarchical Clustering
 
 The definition of similarity, especially between clusters, can significantly impact the outcomes of hierarchical clustering. Generally, clustering methods calculate the similarities between individual samples and then aggregate these similarities into a collective measure for the clusters. Each method utilizes a specific metric for similarity computation.
 
-In this study, I applied agglomerative (bottom-up) hierarchical clustering, which begins by assigning each sample to its own distinct cluster. The algorithm identifies the pair of most similar samples and merges them into a single cluster, treating them as a "quasi-sample." This merging process continues until all samples are consolidated into one cluster. The results are typically visualized as a dendrogram, which illustrates the sequence in which clusters are merged. The height of the branches in this tree indicates the level of similarity between clusters; greater heights reflect higher dissimilarity. By cutting the dendrogram at a specific height, I can achieve clusters of desired sizes—making a cut closer to the leaves results in more smaller clusters, while a cut near the root yields fewer larger clusters.
+In this study, I applied agglomerative (bottom-up) hierarchical clustering, which begins by assigning each sample to its own distinct cluster. The algorithm identifies the pair of most similar samples and merges them into a single cluster, treating them as a "quasi-sample." This merging process continues until all samples are consolidated into one cluster. The results are typically visualized as a dendrogram, which illustrates the sequence in which clusters are merged. The height of the branches in this tree indicates the level of similarity between clusters; greater heights reflect higher dissimilarity. By cutting the dendrogram at a specific height, I could achieve clusters of desired sizes—making a cut closer to the leaves results in more smaller clusters, while a cut near the root yields fewer larger clusters.
 
 ### 1.1. Input
 
@@ -25,7 +25,7 @@ The resulting dendrogram revealed that similar samples were grouped together. Fo
 
 <img src='https://vanngocthuyla.github.io/images/ML/Hclust_Plot.jpg' width="800">
 
-If the number of clusters is set to five, the algorithm will return the assigned cluster for each sample.
+If the number of clusters was set to five, the algorithm would return the assigned cluster for each sample.
 
 |Sample|Cluster ID|
 |:----:|:-------:|
@@ -90,11 +90,11 @@ It is important to note that due to random initialization, running k-means multi
 
 ### 2.1. Input
 
-We continue to work with the same input data of 52 samples as described in 1.1.
+I worked with the same input data of 52 samples as described in 1.1.
 
 ### 2.2. Result
 
-The resulting table is straightforward, with each sample assigned to a cluster.
+The resulting table was straightforward, with each sample assigned to a cluster.
 
 |Sample|Cluster ID|
 |:----:|:-------:|
