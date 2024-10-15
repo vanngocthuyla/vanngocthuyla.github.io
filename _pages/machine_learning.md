@@ -5,8 +5,10 @@ sitemap: false
 permalink: /machine_learning
 ---
 
-Discover how machine learning methods can be applied in biomedical research [**here**](https://vanngocthuyla.github.io/posts/ML/ML_intro)
+In the rapidly evolving field of biomedical research, machine learning has emerged as a transformative tool that enhances our ability to analyze complex biological data. By leveraging algorithms that can learn from and make predictions based on data, researchers can uncover insights that were previously unattainable through traditional statistical methods. This capability is particularly crucial in understanding the complexities of diseases, guiding diagnosis, and developing targeted therapies.
 
-Learn more about supervised machine learning methods and how they are applied in biomedical research to classify disease/cell types and predict outcomes [**here**](https://vanngocthuyla.github.io/posts/ML/supervised).
+Learn more about how machine learning methods can be applied in biomedical research [**here**](https://vanngocthuyla.github.io/posts/ML/ML_intro)
+
+Discover some supervised machine learning techniques and how they are applied in biomedical research to classify disease/cell types and predict outcomes [**here**](https://vanngocthuyla.github.io/posts/ML/supervised).
 
 Explore unsupervised machine learning techniques used to discover hidden patterns in biological data [**here**](https://vanngocthuyla.github.io/posts/ML/unsupervised).
