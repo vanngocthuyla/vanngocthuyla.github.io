@@ -5,7 +5,7 @@ title: ""
 
 ## About Me
 
-Welcome to my website! I am a computational biologist with a strong focus on molecular biology and chemical biology. I specialize in utilizing statistical models and machine learning, constructing analysis pipelines and workflows, and integrating complex data to bridge scientific knowledge gaps, drive research, and support practical applications. I invite you to explore the details on the Research page.
+Welcome to my website! I am a computational biologist with a strong focus on molecular biology and chemical biology. I specialize in utilizing statistical models and machine learning, constructing analysis pipelines and workflows, and integrating complex data to bridge scientific knowledge gaps, drive research, and support practical applications. I invite you to explore the details on the [Research](https://vanngocthuyla.github.io/research) page.
 
 I am currently conducting research at David Minh lab, Illinois Institute of Technology, Chicago, IL.  I welcome inquiries and collaborations, and I am eager to engage in discussions about how computational biology can enhance research and product development for human health.
 
