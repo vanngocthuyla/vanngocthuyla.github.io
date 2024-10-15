@@ -5,7 +5,7 @@ sitemap: false
 permalink: /omics
 ---
 
-Jump to [Transcriptomics](#Transcriptomics), [Genomic](#Genomics)
+Jump to [Transcriptomics](#Transcriptomics), [Genomics](#Genomics)
 
 Sequencing technologies are essential tools in biomedical research, enabling the exploration of genetic and molecular mechanisms underlying diseases. By decoding DNA and RNA sequences, researchers can identify mutations, genetic variations, and gene expression patterns, which contribute to better understanding, diagnosis, and treatment of various diseases. From whole-genome sequencing (WGS) to RNA-sequencing (RNA-seq), these technologies help reveal the genetic basis of disorders, allowing for targeted therapies and personalized medicine.
 
