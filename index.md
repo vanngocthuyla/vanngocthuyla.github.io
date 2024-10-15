@@ -11,7 +11,7 @@ I am currently conducting research at David Minh lab, Illinois Institute of Tech
 
 ## Education
 
-**Ph.D. in Biology** from Illinois Institute of Technology, Chicago, Illinois.
+**Ph.D. in Biology** from Illinois Institute of Technology, Chicago, Illinois, under advisory of [Dr. David Minh](https://www.iit.edu/directory/people/david-minh) and [Dr. Lulu Kang](https://www.umass.edu/mathematics-statistics/about/directory/lulu-kang)
 
 **MSc in Biotechnology** and **BS in Biotechnology** from University of Science, VNUHCM.
 
