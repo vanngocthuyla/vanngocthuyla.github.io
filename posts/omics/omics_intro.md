@@ -16,7 +16,7 @@ Functional annotation then helps elucidate the molecular functions, biological p
 
 After identifying DEGs, the next step is to further analyze the results using machine learning techniques. Machine learning provides a powerful approach to classify cell types, identify key features, and predict outcomes based on gene expression data.
 
-In another project, I applied machine learning methods to classify human cell lines related to disease. Supervised learning techniques such as Linear Discriminant Analysis (LDA), Naive Bayes, Support Vector Machines (SVM), and Random Forest were employed to classify and predict disease-related patterns from DEGs. Unsupervised methods like hierarchical clustering (Hclust), K-means, and Principal Component Analysis (PCA) were also used to explore inherent structures in the data. The application of these machine learning algorithms led to the identification of significant features and potential biomarkers, enhancing our understanding of disease mechanisms.
+In other projects, I applied machine learning methods to classify human cell lines related to disease. [Supervised learning techniques](https://vanngocthuyla.github.io/posts/ML/supervised/) such as Linear Discriminant Analysis (LDA), Naive Bayes, Support Vector Machines (SVM), and Random Forest were employed to classify and predict disease-related patterns from DEGs. [Unsupervised techniques](https://vanngocthuyla.github.io/posts/ML/unsupervised/) like hierarchical clustering (H-clust), K-means, and Principal Component Analysis (PCA) were also used to explore inherent structures in the data. The application of these machine learning algorithms led to the identification of significant features and potential biomarkers, enhancing our understanding of disease mechanisms.
 
 These methods, in combination with DEG identification, provide valuable insights into disease processes and potential therapeutic targets. 
 
@@ -34,4 +34,4 @@ I worked on identifying chromosomal anomalies, such as trisomies, using WGS data
 
 # Summary
 
-These projects highlight the power of sequencing technologies in identifying genetic mutations, enabling early diagnosis and guiding personalized treatment plans. By combining transcriptomic profiling, machine learning, and genomic analysis, I have contributed to the development of tools that enhance both research and clinical decision-making.
+These projects highlight the power of sequencing technologies in various biomedical studies, ranging from disease research to the identification of genetic mutations and enabling early diagnosis.
