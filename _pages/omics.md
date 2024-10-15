@@ -5,6 +5,8 @@ sitemap: false
 permalink: /omics
 ---
 
+Jump to [Introduction of omics analysis](https://vanngocthuyla.github.io/omics/posts/omics_intro)
+
 ## Transcriptomic analysis
 
 I analyze RNA-seq data to gain a deeper understanding of gene expression dynamics. My transcriptomic work includes:
