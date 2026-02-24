@@ -16,16 +16,21 @@ permalink: /research
 
 ## Journal Publications
 
-1) **La VNT**, Minh DDL. [Bayesian Regression Quantifies Uncertainty of Binding Parameters from Isothermal Titration
+1) **La VNT** et al. [Linking biochemical and cellular efficacy of MERS coronavirus main protease inhibitors](https://www.biorxiv.org/content/10.64898/2026.02.20.707097v1).  _Preprint_. 2026
+
+
+2) **La VNT**, Kang L, Minh DDL, [Enzyme kinetics model for the coronavirus main protease including dimerization and ligand binding](https://pubmed.ncbi.nlm.nih.gov/40618193/). _Biophysical Journal_. 2025;124(16):2627-2638
+
+3) **La VNT**, Minh DDL. [Bayesian Regression Quantifies Uncertainty of Binding Parameters from Isothermal Titration
 Calorimetry More Accurately Than Error Propagation](https://www.mdpi.com/1422-0067/24/20/15074). _International Journal of Molecular Sciences_. 2023;24:15074
 
-2) **La VNT**, Nicholson S, Haneef A, Kang L, Minh DDL. [Inclusion of Control Data in Fits to Concentration–Response Curves
+4) **La VNT**, Nicholson S, Haneef A, Kang L, Minh DDL. [Inclusion of Control Data in Fits to Concentration–Response Curves
 Improves Estimates of Half-Maximal Concentrations](https://pubs.acs.org/doi/10.1021/acs.jmedchem.3c00107). _Journal of Medicinal Chemistry_. 2023;66:12751–61
 
-3) Nguyen TH, **La VNT**, Burke K, Minh DDL. [Bayesian regression and model selection for isothermal titration calorimetry
+5) Nguyen TH, **La VNT**, Burke K, Minh DDL. [Bayesian regression and model selection for isothermal titration calorimetry
 with enantiomeric mixtures](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0273656). _PLOS ONE_. 2022;17:e0273656
 
-4) **La VNT**, Tran HTD, Nguyen CH, Nguyen TTH. [RNA-seq derived identification of coronatine-regulated genes putatively
+6) **La VNT**, Tran HTD, Nguyen CH, Nguyen TTH. [RNA-seq derived identification of coronatine-regulated genes putatively
 involved in terpenoid biosynthetic pathway in the rubber tree Hevea brasiliensis](https://iopscience.iop.org/article/10.1088/1755-1315/749/1/012033). _IOP Conference Series: Earth and Environmental Science_. 2021;749:012033
 
 ## Research Projects
