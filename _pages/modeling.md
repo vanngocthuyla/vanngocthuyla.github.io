@@ -22,4 +22,6 @@ I utilized Bayesian modeling techniques to improved predictive accuracy and unce
 
 My work in drug design focuses on improving data analysis methods for pharmacological screening. Key achievements include:
 
+- Applying enzyme kinetic model to predict cellular pEC50s of compounds targeting MERS-CoV ([Preprint in 2026](https://www.biorxiv.org/content/10.64898/2026.02.20.707097v1))
+
 - Enhancing concentration-response curve fitting by incorporating control data, leading to more accurate estimates of half-maximal concentrations ([Paper in 2023](https://pubs.acs.org/doi/10.1021/acs.jmedchem.3c00107)).
