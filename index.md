@@ -17,8 +17,8 @@ I am currently conducting research at [CCB Lab](https://ccbatiit.github.io/), Il
 
 ## Contact 
 
-Linkedin: [https://www.linkedin.com/in/thuy-van-la-ngoc/](https://www.linkedin.com/in/thuy-van-la-ngoc/)
+Linkedin: [https://www.linkedin.com/in/van-la](https://www.linkedin.com/in/thuy-van-la-ngoc/)
 
-Email: [vla@hawk.iit.edu](vla@hawk.iit.edu)
+Email: [vla@hawk.illinoistech.edu](vla@hawk.illinoistech.edu)
 
-Outlook mail: [langocthuyvan@outlook.com](langocthuyvan@outlook.com)
+Outlook mail: [van.n.la@outlook.com](van.n.la@outlook.com)
