@@ -18,20 +18,23 @@ permalink: /research
 
 1) **La VNT** et al. [Linking biochemical and cellular efficacy of MERS coronavirus main protease inhibitors](https://www.biorxiv.org/content/10.64898/2026.02.20.707097v1). _Preprint_. 2026
 
-2) MacDermott-Opeskin H et al. [A Computational Community Blind Challenge on Pan-Coronavirus Drug Discovery Data](https://pubs.acs.org/doi/10.1021/acs.jcim.5c02106). _J. Chem. Inf. Model._ 2026; acs.jcim.5c02106.
+2) MacDermott-Opeskin H _et al_. [A Computational Community Blind Challenge on Pan-Coronavirus Drug Discovery Data](https://pubs.acs.org/doi/10.1021/acs.jcim.5c02106). _J. Chem. Inf. Model._ 2026; acs.jcim.5c02106.
 
 3) **La VNT**, Kang L, Minh DDL, [Enzyme kinetics model for the coronavirus main protease including dimerization and ligand binding](https://pubmed.ncbi.nlm.nih.gov/40618193/). _Biophysical Journal_. 2025; 124:2627-2638
 
-4) **La VNT**, Minh DDL. [Bayesian Regression Quantifies Uncertainty of Binding Parameters from Isothermal Titration
+4) Boby ML _et al_. [Open science discovery of potent noncovalent SARS-CoV-2 main protease inhibitors](https://doi.org/10.1126/science.abo7201). _Science_; 2023;382:eabo7201.
+
+
+5) **La VNT**, Minh DDL. [Bayesian Regression Quantifies Uncertainty of Binding Parameters from Isothermal Titration
 Calorimetry More Accurately Than Error Propagation](https://www.mdpi.com/1422-0067/24/20/15074). _International Journal of Molecular Sciences_. 2023; 24:15074
 
-5) **La VNT**, Nicholson S, Haneef A, Kang L, Minh DDL. [Inclusion of Control Data in Fits to Concentration–Response Curves
+6) **La VNT**, Nicholson S, Haneef A, Kang L, Minh DDL. [Inclusion of Control Data in Fits to Concentration–Response Curves
 Improves Estimates of Half-Maximal Concentrations](https://pubs.acs.org/doi/10.1021/acs.jmedchem.3c00107). _Journal of Medicinal Chemistry_. 2023; 66:12751–61
 
-6) Nguyen TH, **La VNT**, Burke K, Minh DDL. [Bayesian regression and model selection for isothermal titration calorimetry
+7) Nguyen TH, **La VNT**, Burke K, Minh DDL. [Bayesian regression and model selection for isothermal titration calorimetry
 with enantiomeric mixtures](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0273656). _PLOS ONE_. 2022; 17:e0273656
 
-7) **La VNT**, Tran HTD, Nguyen CH, Nguyen TTH. [RNA-seq derived identification of coronatine-regulated genes putatively
+8) **La VNT**, Tran HTD, Nguyen CH, Nguyen TTH. [RNA-seq derived identification of coronatine-regulated genes putatively
 involved in terpenoid biosynthetic pathway in the rubber tree Hevea brasiliensis](https://iopscience.iop.org/article/10.1088/1755-1315/749/1/012033). _IOP Conference Series: Earth and Environmental Science_. 2021; 749:012033
 
 ## Research Projects
