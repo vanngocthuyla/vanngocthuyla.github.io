@@ -22,7 +22,7 @@ permalink: /research
 
 3) **La VNT**, Kang L, Minh DDL, [Enzyme kinetics model for the coronavirus main protease including dimerization and ligand binding](https://pubmed.ncbi.nlm.nih.gov/40618193/). _Biophysical Journal_. 2025; 124:2627-2638
 
-4) Boby ML _et al_. [Open science discovery of potent noncovalent SARS-CoV-2 main protease inhibitors](https://doi.org/10.1126/science.abo7201). _Science_; 2023;382:eabo7201.
+4) Boby ML _et al_. [Open science discovery of potent noncovalent SARS-CoV-2 main protease inhibitors](https://doi.org/10.1126/science.abo7201). _Science_; 2023; 382:eabo7201.
 
 
 5) **La VNT**, Minh DDL. [Bayesian Regression Quantifies Uncertainty of Binding Parameters from Isothermal Titration
