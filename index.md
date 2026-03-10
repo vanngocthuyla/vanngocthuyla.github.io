@@ -20,3 +20,5 @@ I am currently research collaborator at [CCB Lab](https://ccbatiit.github.io/), 
 Linkedin: [https://www.linkedin.com/in/van-la](https://www.linkedin.com/in/thuy-van-la-ngoc/)
 
 Email: [van.n.la@outlook.com](van.n.la@outlook.com)
+
+Other: [Google scholar](https://scholar.google.com/citations?user=bBx0BlEAAAAJ)
